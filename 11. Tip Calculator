@@ -1,0 +1,4 @@
+
+
+const bill = 500;
+console.log(bill * 0.1);
