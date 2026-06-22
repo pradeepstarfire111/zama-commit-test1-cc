@@ -1,0 +1,2 @@
+const kg = 70;
+console.log(kg * 2.20462);
