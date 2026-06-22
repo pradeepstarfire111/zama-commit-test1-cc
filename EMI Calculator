@@ -1,0 +1,3 @@
+const loan = 100000;
+const months = 12;
+console.log(loan / months);
