@@ -1,0 +1,2 @@
+const birthYear = 1996;
+console.log(new Date().getFullYear() - birthYear);
